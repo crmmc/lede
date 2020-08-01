@@ -1,4 +1,11 @@
-﻿Welcome to Lean's  git source of OpenWrt and packages
+﻿这于2020.8.1 克隆的lean openwrt 19 (R20) 的完整源码，已经整合至今最新的feed包，为了防止后期版本迭代导致的错误，已经注释掉了feeds的所有源。
+加入了orangepi zero的wifi补丁，需要在menuconfig界面 kerne-modules里找xr819的补丁并开启。
+
+
+
+
+
+Welcome to Lean's  git source of OpenWrt and packages
 
 中文：如何编译自己需要的 OpenWrt 固件
 
